@@ -1,4 +1,4 @@
-package 排序;
+package 排序.基础排序;
 
 /**
  * @author 骑着蜗牛ひ追导弹'
